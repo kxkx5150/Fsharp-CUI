@@ -5,7 +5,7 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": ".NET Core Launch Debug",
+            "name": "Launch Debug",
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "Debug",
@@ -16,7 +16,7 @@
             "console": "internalConsole"
         },
         {
-            "name": ".NET Core Launch Release",
+            "name": "Launch Release",
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "Release",
